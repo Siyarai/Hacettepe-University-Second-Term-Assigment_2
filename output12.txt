@@ -1,9 +1,0 @@
-COMMAND: SetInitialTime	2026-04-28_14:23:55
-SUCCESS: Time has been set to 2026-04-28_14:23:55!
-COMMAND: Add	SmartLamp	Lamp1
-COMMAND: Add	SmartColorLamp	CLamp1	On	0xFF	30
-COMMAND: SetWhite	Lamp1	3000	80
-ZReport:
-Time is:	2026-04-28_14:23:55
-Smart Lamp Lamp1 is off and its kelvin value is 3000K with 80% brightness, and its time to switch its status is null.
-Smart Color Lamp CLamp1 is on and its color value is 0x0000FF with 30% brightness, and its time to switch its status is null.

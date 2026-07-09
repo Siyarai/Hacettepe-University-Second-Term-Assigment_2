@@ -1,4 +1,0 @@
-SetInitialTime	2026-04-28_14:23:55
-Add	SmartLamp	Lamp1
-Add	SmartColorLamp	CLamp1	On	0xFF	30
-SetWhite	Lamp1	3000	80

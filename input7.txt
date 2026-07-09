@@ -1,5 +1,0 @@
-SetInitialTime	2026-04-08_16:17:18
-SkipMinutes	-10
-SkipMinutes	abc
-SkipMinutes	5	random
-SkipMinutes	0

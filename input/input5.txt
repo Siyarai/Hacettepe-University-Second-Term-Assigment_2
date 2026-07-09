@@ -1,4 +1,0 @@
-SetInitialTime	2026-25-34_14:00:00
-Add	SmartPlug	Plug1
-Add	SmartPlug	Plug2	On
-Add	SmartPlug	Plug3	Off
